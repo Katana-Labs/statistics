@@ -16,5 +16,21 @@
 		"SOL": 0.2609,
 		"ETH": 0.6288,
 		"BTC": 0.3172
+	},
+	"vaultId": {
+  		"HxqxMsf6SMFCZXZFinZMTdxQxVG3Tgv5ECz9zXYmxMAC": 0.2356,
+  		"8BtfxVEHvr2JDjwvQeqGs8tQWd5Hmj4q8RZxugLZ4ofA": 0.0829,
+  		"8oNjcwDKYUCrDiaUErpLoqLE54LXDDkMVMRKB3Q4Wx1R": 0.4373,
+  		"DkguYGWhRE8qJ9voWNYZ8dJkGYr8ACUR8KXqDAyHpGx2": 0.3532,
+  		"FA17pr8A2HyYsUdGTTaPwAbGbCx8xyaDtjt1CY5AvSgS": 0.6288,
+  		"CPFuWtS7qNQt3RPnSt5opKph9JbqdW3LjxF1HEw3v1tP": 0.2728,
+  		"FrQqy3qZcbpe379nEnK5bfXx6r26JwEa9sBj89oziiQU": 0.2609,
+  		"DVQKUnjyxMmLRCm5FKVLogo7YS94oqay6SNrb3EqxKn4": 0.1899,
+  		"7d3eTAxqfX9USUv7mFpvwoNnMswHVyNC2cYzWAUEZ9cT": 0.9549,
+  		"56rxYfs2q3VSRhtwa13QjXUTv8d6S2xq3WaaTVAfYkwp": 0.3172,
+  		"8dENNXaNmuEFNkHRwzAyqMtzqe8TmbnrCMtoJdRAp3oh": 0.2986,
+  		"GtutWPSU1yrepoPi94yVE5LSnx7jaLnwUPattZKygZJE": 0.3147,
+  		"EfN1NMcv3nBRANNP3JJNErwk5B6sDzAephivYpnJJAnD": 0.3732,
+  		"FLE3gtCSKr8Lx3Gk1Eec4ww1cknJSJuvVSsots6zYMWn": 0.5396
 	}
 }
