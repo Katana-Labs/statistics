@@ -1,7 +1,7 @@
 {
   "ethereum": 1174.726371,
-  "bitcoin": 79.773891,
-  "solana": 103041.809941675,
+  "bitcoin": 79.776747,
+  "solana": 103041.909941675,
   "terra-luna": 17945.910169,
   "msol": 41713.427282863,
   "mango-markets": 548874.465604,
@@ -10,5 +10,5 @@
   "raydium": 775.03445,
   "lido-staked-sol": 541.678956924,
   "injective-protocol": 154373.64800487,
-  "usd-coin": 3551380.07888
+  "usd-coin": 3551560.07888
 }
