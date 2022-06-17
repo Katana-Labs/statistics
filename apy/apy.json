@@ -12,7 +12,7 @@
     "STSOL": 0.17477228362951264,
     "INJ": 0.19768112749654243,
     "CSOL": 0.2770491214985036,
-    "WETH": null
+    "WETH": 0.2467394474693072
   },
   "put": {
     "SOL": 0.4200457385402038,
@@ -35,7 +35,7 @@
     "56rxYfs2q3VSRhtwa13QjXUTv8d6S2xq3WaaTVAfYkwp": 0.43936230146891764,
     "8oNjcwDKYUCrDiaUErpLoqLE54LXDDkMVMRKB3Q4Wx1R": 0.19768112749654243,
     "bWWGqvth3WJQ3vJBcR97Mi3JSb9szr1brVqsiqMtRfv": 0.2770491214985036,
-    "4CVmhfkF7Hcu2ygzsnqj6Sc8xswkneHMXtQ43xuPjmjP": null
+    "4CVmhfkF7Hcu2ygzsnqj6Sc8xswkneHMXtQ43xuPjmjP": 0.2467394474693072
   },
   "all": {
     "EfN1NMcv3nBRANNP3JJNErwk5B6sDzAephivYpnJJAnD": {
@@ -44,7 +44,7 @@
     },
     "DkguYGWhRE8qJ9voWNYZ8dJkGYr8ACUR8KXqDAyHpGx2": {
       "weeklyPerformance": 0.8,
-      "apyWeekly": "#VALUE! (Function MULTIPLY parameter 1 expects number values. But 'Zeta' is a text and cannot be coerced to a number.)"
+      "apyWeekly": 0.5133788828885173
     },
     "HxqxMsf6SMFCZXZFinZMTdxQxVG3Tgv5ECz9zXYmxMAC": {
       "weeklyPerformance": 0.35000000000000003,
@@ -99,8 +99,8 @@
       "apyWeekly": 0.5133788828885173
     },
     "4CVmhfkF7Hcu2ygzsnqj6Sc8xswkneHMXtQ43xuPjmjP": {
-      "weeklyPerformance": 0,
-      "apyWeekly": 0
+      "weeklyPerformance": 0.35000000000000003,
+      "apyWeekly": 0.1992330664952071
     }
   }
 }
