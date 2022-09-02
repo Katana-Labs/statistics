@@ -1,15 +1,15 @@
 {
-  "ethereum": 291.779229,
-  "bitcoin": 103.610637,
+  "ethereum": 289.432081,
+  "bitcoin": 103.855537,
   "solana": 121138.241095157,
   "terra-luna": 39494.655445,
-  "msol": 15056.237301463,
-  "mango-markets": 799481.256259,
-  "ftx-token": 7784.991262,
-  "serum": 17973.590079,
-  "raydium": 3219.10614,
-  "lido-staked-sol": 479.967853763,
-  "injective-protocol": 167462.51170624,
+  "msol": 14996.19537133,
+  "mango-markets": 518376.858269,
+  "ftx-token": 7690.764966,
+  "serum": 17997.762578,
+  "raydium": 3223.913195,
+  "lido-staked-sol": 480.660421454,
+  "injective-protocol": 168852.45054754,
   "undefined": null,
-  "usd-coin": 1479173.856063
+  "usd-coin": 1405645.337265
 }
