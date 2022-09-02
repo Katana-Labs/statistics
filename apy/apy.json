@@ -1,106 +1,106 @@
 {
   "call": {
-    "SOL": 0.3028141525965879,
-    "MSOL": 0.21460267309149822,
-    "ETH": 0.23106665680891592,
-    "BTC": 0.23612449304467398,
+    "SOL": 0.2973842146907721,
+    "MSOL": 0.21101195752382312,
+    "ETH": 0.23675637647263326,
+    "BTC": 0.2364102147749243,
     "LUNA": 0.5592049120198936,
-    "MNGO": 0.5009051501842865,
-    "FTT": 0.26610268029718886,
-    "RAY": 0.26476525476491886,
-    "SRM": 0.2667759954520008,
-    "STSOL": 0.1772191681949255,
-    "INJ": 0.19630126557042904,
-    "CSOL": 0.2362538374553238,
-    "WETH": 0.28446176284844493
+    "MNGO": 0.48668913379625467,
+    "FTT": 0.2602036767512961,
+    "RAY": 0.25911483323958273,
+    "SRM": 0.26848587002707314,
+    "STSOL": 0.17446149115219972,
+    "INJ": 0.2027294422908723,
+    "CSOL": 0.23142506490924797,
+    "WETH": 0.29717389709791764
   },
   "put": {
-    "SOL": 0.44146445427256154,
-    "ETH": 0.4226048362516728,
-    "BTC": 0.41867477554385424
+    "SOL": 0.4374819374732669,
+    "ETH": 0.4203378326680356,
+    "BTC": 0.418111201670226
   },
   "vaultId": {
-    "EfN1NMcv3nBRANNP3JJNErwk5B6sDzAephivYpnJJAnD": 0.3028141525965879,
-    "DkguYGWhRE8qJ9voWNYZ8dJkGYr8ACUR8KXqDAyHpGx2": 0.21460267309149822,
-    "HxqxMsf6SMFCZXZFinZMTdxQxVG3Tgv5ECz9zXYmxMAC": 0.23106665680891592,
-    "8dENNXaNmuEFNkHRwzAyqMtzqe8TmbnrCMtoJdRAp3oh": 0.23612449304467398,
+    "EfN1NMcv3nBRANNP3JJNErwk5B6sDzAephivYpnJJAnD": 0.2973842146907721,
+    "DkguYGWhRE8qJ9voWNYZ8dJkGYr8ACUR8KXqDAyHpGx2": 0.21101195752382312,
+    "HxqxMsf6SMFCZXZFinZMTdxQxVG3Tgv5ECz9zXYmxMAC": 0.23675637647263326,
+    "8dENNXaNmuEFNkHRwzAyqMtzqe8TmbnrCMtoJdRAp3oh": 0.2364102147749243,
     "7d3eTAxqfX9USUv7mFpvwoNnMswHVyNC2cYzWAUEZ9cT": 0.5592049120198936,
-    "8BtfxVEHvr2JDjwvQeqGs8tQWd5Hmj4q8RZxugLZ4ofA": 0.5009051501842865,
-    "FLE3gtCSKr8Lx3Gk1Eec4ww1cknJSJuvVSsots6zYMWn": 0.26610268029718886,
-    "FrQqy3qZcbpe379nEnK5bfXx6r26JwEa9sBj89oziiQU": 0.44146445427256154,
-    "FA17pr8A2HyYsUdGTTaPwAbGbCx8xyaDtjt1CY5AvSgS": 0.4226048362516728,
-    "GtutWPSU1yrepoPi94yVE5LSnx7jaLnwUPattZKygZJE": 0.26476525476491886,
-    "DVQKUnjyxMmLRCm5FKVLogo7YS94oqay6SNrb3EqxKn4": 0.2667759954520008,
-    "CPFuWtS7qNQt3RPnSt5opKph9JbqdW3LjxF1HEw3v1tP": 0.1772191681949255,
-    "56rxYfs2q3VSRhtwa13QjXUTv8d6S2xq3WaaTVAfYkwp": 0.41867477554385424,
-    "8oNjcwDKYUCrDiaUErpLoqLE54LXDDkMVMRKB3Q4Wx1R": 0.19630126557042904,
-    "bWWGqvth3WJQ3vJBcR97Mi3JSb9szr1brVqsiqMtRfv": 0.2362538374553238,
-    "4CVmhfkF7Hcu2ygzsnqj6Sc8xswkneHMXtQ43xuPjmjP": 0.28446176284844493
+    "8BtfxVEHvr2JDjwvQeqGs8tQWd5Hmj4q8RZxugLZ4ofA": 0.48668913379625467,
+    "FLE3gtCSKr8Lx3Gk1Eec4ww1cknJSJuvVSsots6zYMWn": 0.2602036767512961,
+    "FrQqy3qZcbpe379nEnK5bfXx6r26JwEa9sBj89oziiQU": 0.4374819374732669,
+    "FA17pr8A2HyYsUdGTTaPwAbGbCx8xyaDtjt1CY5AvSgS": 0.4203378326680356,
+    "GtutWPSU1yrepoPi94yVE5LSnx7jaLnwUPattZKygZJE": 0.25911483323958273,
+    "DVQKUnjyxMmLRCm5FKVLogo7YS94oqay6SNrb3EqxKn4": 0.26848587002707314,
+    "CPFuWtS7qNQt3RPnSt5opKph9JbqdW3LjxF1HEw3v1tP": 0.17446149115219972,
+    "56rxYfs2q3VSRhtwa13QjXUTv8d6S2xq3WaaTVAfYkwp": 0.418111201670226,
+    "8oNjcwDKYUCrDiaUErpLoqLE54LXDDkMVMRKB3Q4Wx1R": 0.2027294422908723,
+    "bWWGqvth3WJQ3vJBcR97Mi3JSb9szr1brVqsiqMtRfv": 0.23142506490924797,
+    "4CVmhfkF7Hcu2ygzsnqj6Sc8xswkneHMXtQ43xuPjmjP": 0.29717389709791764
   },
   "all": {
     "EfN1NMcv3nBRANNP3JJNErwk5B6sDzAephivYpnJJAnD": {
-      "weeklyPerformance": 0.22,
-      "apyWeekly": 0.1210596389784282
+      "weeklyPerformance": 0.281,
+      "apyWeekly": 0.1570979291212884
     },
     "DkguYGWhRE8qJ9voWNYZ8dJkGYr8ACUR8KXqDAyHpGx2": {
-      "weeklyPerformance": 0.22499999999999998,
-      "apyWeekly": 0.12397169874827818
+      "weeklyPerformance": 0.25,
+      "apyWeekly": 0.13864364655315664
     },
     "HxqxMsf6SMFCZXZFinZMTdxQxVG3Tgv5ECz9zXYmxMAC": {
-      "weeklyPerformance": 0.36,
-      "apyWeekly": 0.20546314588195846
+      "weeklyPerformance": 0.73,
+      "apyWeekly": 0.4596857404114658
     },
     "8dENNXaNmuEFNkHRwzAyqMtzqe8TmbnrCMtoJdRAp3oh": {
-      "weeklyPerformance": 0.26,
-      "apyWeekly": 0.1445648762730789
+      "weeklyPerformance": 0.42500000000000004,
+      "apyWeekly": 0.24673944746930743
     },
     "7d3eTAxqfX9USUv7mFpvwoNnMswHVyNC2cYzWAUEZ9cT": {
       "weeklyPerformance": 0.59,
       "apyWeekly": 0.3578444569
     },
     "8BtfxVEHvr2JDjwvQeqGs8tQWd5Hmj4q8RZxugLZ4ofA": {
+      "weeklyPerformance": 0.12,
+      "apyWeekly": 0.06434819670368186
+    },
+    "FLE3gtCSKr8Lx3Gk1Eec4ww1cknJSJuvVSsots6zYMWn": {
+      "weeklyPerformance": 0.13,
+      "apyWeekly": 0.06989027666654568
+    },
+    "FrQqy3qZcbpe379nEnK5bfXx6r26JwEa9sBj89oziiQU": {
+      "weeklyPerformance": 0.66,
+      "apyWeekly": 0.4078622212562073
+    },
+    "FA17pr8A2HyYsUdGTTaPwAbGbCx8xyaDtjt1CY5AvSgS": {
+      "weeklyPerformance": 0.6346153846153846,
+      "apyWeekly": 0.3895185131813377
+    },
+    "GtutWPSU1yrepoPi94yVE5LSnx7jaLnwUPattZKygZJE": {
       "weeklyPerformance": 0.15,
       "apyWeekly": 0.08105947801536972
     },
-    "FLE3gtCSKr8Lx3Gk1Eec4ww1cknJSJuvVSsots6zYMWn": {
-      "weeklyPerformance": 0.19,
-      "apyWeekly": 0.10374203733796805
-    },
-    "FrQqy3qZcbpe379nEnK5bfXx6r26JwEa9sBj89oziiQU": {
-      "weeklyPerformance": 0.6,
-      "apyWeekly": 0.3648816577132148
-    },
-    "FA17pr8A2HyYsUdGTTaPwAbGbCx8xyaDtjt1CY5AvSgS": {
-      "weeklyPerformance": 0.38461538461538464,
-      "apyWeekly": 0.22093427881138972
-    },
-    "GtutWPSU1yrepoPi94yVE5LSnx7jaLnwUPattZKygZJE": {
-      "weeklyPerformance": 0.3,
-      "apyWeekly": 0.16855327541123222
-    },
     "DVQKUnjyxMmLRCm5FKVLogo7YS94oqay6SNrb3EqxKn4": {
-      "weeklyPerformance": 0.13999999999999999,
-      "apyWeekly": 0.07546065654970602
+      "weeklyPerformance": 0.547,
+      "apyWeekly": 0.32798782343570365
     },
     "CPFuWtS7qNQt3RPnSt5opKph9JbqdW3LjxF1HEw3v1tP": {
-      "weeklyPerformance": 0.2,
-      "apyWeekly": 0.10948521608698436
+      "weeklyPerformance": 0.25,
+      "apyWeekly": 0.13864364655315664
     },
     "56rxYfs2q3VSRhtwa13QjXUTv8d6S2xq3WaaTVAfYkwp": {
-      "weeklyPerformance": 0.40054054054054056,
-      "apyWeekly": 0.23104704885262728
+      "weeklyPerformance": 0.647887323943662,
+      "apyWeekly": 0.39907979161298734
     },
     "8oNjcwDKYUCrDiaUErpLoqLE54LXDDkMVMRKB3Q4Wx1R": {
-      "weeklyPerformance": 0.83,
-      "apyWeekly": 0.5369788589090325
+      "weeklyPerformance": 0.6969000000000001,
+      "apyWeekly": 0.43495156383213995
     },
     "bWWGqvth3WJQ3vJBcR97Mi3JSb9szr1brVqsiqMtRfv": {
-      "weeklyPerformance": 0.2,
-      "apyWeekly": 0.10948521608698436
+      "weeklyPerformance": 0.25,
+      "apyWeekly": 0.13864364655315664
     },
     "4CVmhfkF7Hcu2ygzsnqj6Sc8xswkneHMXtQ43xuPjmjP": {
-      "weeklyPerformance": 0.36,
-      "apyWeekly": 0.20546314588195846
+      "weeklyPerformance": 0.73,
+      "apyWeekly": 0.4596857404114658
     }
   }
 }
