@@ -1,6 +1,6 @@
 {
   "call": {
-    "SOL": 0.29806227714397443,
+    "SOL": 0.29169735764654464,
     "MSOL": 0.20671307297722724,
     "ETH": 0.2487893368638543,
     "BTC": 0.23895830359414938,
@@ -15,19 +15,19 @@
     "WETH": 0.3271541125601203
   },
   "put": {
-    "SOL": 0.4493279449048947,
+    "SOL": 0.430299275125135,
     "ETH": 0.43231107903441,
     "BTC": 0.4170395194811509
   },
   "vaultId": {
-    "EfN1NMcv3nBRANNP3JJNErwk5B6sDzAephivYpnJJAnD": 0.29806227714397443,
+    "EfN1NMcv3nBRANNP3JJNErwk5B6sDzAephivYpnJJAnD": 0.29169735764654464,
     "DkguYGWhRE8qJ9voWNYZ8dJkGYr8ACUR8KXqDAyHpGx2": 0.20671307297722724,
     "HxqxMsf6SMFCZXZFinZMTdxQxVG3Tgv5ECz9zXYmxMAC": 0.2487893368638543,
     "8dENNXaNmuEFNkHRwzAyqMtzqe8TmbnrCMtoJdRAp3oh": 0.23895830359414938,
     "7d3eTAxqfX9USUv7mFpvwoNnMswHVyNC2cYzWAUEZ9cT": 0.5592049120198936,
     "8BtfxVEHvr2JDjwvQeqGs8tQWd5Hmj4q8RZxugLZ4ofA": 0.48888836838314775,
     "FLE3gtCSKr8Lx3Gk1Eec4ww1cknJSJuvVSsots6zYMWn": 0.26660518789390375,
-    "FrQqy3qZcbpe379nEnK5bfXx6r26JwEa9sBj89oziiQU": 0.4493279449048947,
+    "FrQqy3qZcbpe379nEnK5bfXx6r26JwEa9sBj89oziiQU": 0.430299275125135,
     "FA17pr8A2HyYsUdGTTaPwAbGbCx8xyaDtjt1CY5AvSgS": 0.43231107903441,
     "GtutWPSU1yrepoPi94yVE5LSnx7jaLnwUPattZKygZJE": 0.2613969175952948,
     "DVQKUnjyxMmLRCm5FKVLogo7YS94oqay6SNrb3EqxKn4": 0.2784018889987656,
@@ -39,8 +39,8 @@
   },
   "all": {
     "EfN1NMcv3nBRANNP3JJNErwk5B6sDzAephivYpnJJAnD": {
-      "weeklyPerformance": 0.6,
-      "apyWeekly": 0.3648816577132148
+      "weeklyPerformance": 0.25,
+      "apyWeekly": 0.13864364655315664
     },
     "DkguYGWhRE8qJ9voWNYZ8dJkGYr8ACUR8KXqDAyHpGx2": {
       "weeklyPerformance": 0.1971,
@@ -67,8 +67,8 @@
       "apyWeekly": 0.5195588445604225
     },
     "FrQqy3qZcbpe379nEnK5bfXx6r26JwEa9sBj89oziiQU": {
-      "weeklyPerformance": 1.3846153846153846,
-      "apyWeekly": 1.0443112258096425
+      "weeklyPerformance": 0.5,
+      "apyWeekly": 0.29609015373008996
     },
     "FA17pr8A2HyYsUdGTTaPwAbGbCx8xyaDtjt1CY5AvSgS": {
       "weeklyPerformance": 1.3221428571428573,
